@@ -90,10 +90,17 @@
             </a>
           </li>
         {%- endif -%}
-        {%- if site.stackoverflow_username -%}
+        {%- if site.resume_word -%}
           <li>
-            <a target="_blank" href="https://stackoverflow.com/users/{{ site.stackoverflow_username| escape }}" class="button button--sacnite button--round-l">
-              <i class="fa fa-stack-overflow blueiconcolor" title="Stack overflow link"></i>
+            <a target="_blank" href="/assets/{{ site.resume_word| escape }}" class="button button--sacnite button--round-l">
+              <i class="fa fa-file-word-o blueiconcolor" title="Resume word"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.resume_pdf -%}
+          <li>
+            <a target="_blank" href="/assets/{{ site.resume_pdf| escape }}" class="button button--sacnite button--round-l">
+              <i class="fa fa-file-pdf-o blueiconcolor" title="Resume pdf"></i>
             </a>
           </li>
         {%- endif -%}
