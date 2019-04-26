@@ -1,0 +1,78 @@
+# Experience template
+- company: CA Technologies
+  job_title: Principal Software Engineer
+  dates: May ‘17 – Present
+  quote: >
+   Public Sector Compliance & FedRAMP
+  description: | # this will include new lines to allow paragraphs
+    &nbsp;&nbsp;&nbsp;&nbsp;Guide the CA products to get FedRAMP certified. Already GSS & PPM are certified as FedRAMP ready. CA General Support System (GSS) provides the foundational components that will support CA Technologies cloud services. It is leveraged by multiple CA SaaS services for common controls. Work with SAAS team to guide them the architecture and deploy products in Government cloud services.
+
+- company: T-Mobile
+  job_title: Enterprise Architect
+  dates: June ‘15 – Nov ‘16
+  quote: >
+   TMO-ID
+  description: | # this will include new lines to allow paragraphs
+    &nbsp;&nbsp;&nbsp;&nbsp;Converted business owner ideas into solutions and Providing Single product for AAP (Authentication, Authorization and Profile) for various projects across TMO (MyTMO, Streamline). Building the business logic & UI Layer leveraging the IAM. Porting, developing & maintaining of my.t-mobile.com. Integration of BIO metrics using Nok Nok, FCM, Gamelto and other technologies available in the market.
+
+- company: EMC
+  job_title: Principal Consultant
+  dates: March ‘12 - July ‘15
+  quote: >
+   ESI for SAP LVM & REST/API SDK
+  description: | # this will include new lines to allow paragraphs
+    &nbsp;&nbsp;&nbsp;&nbsp;ESI for SAP LVM provides a plugin to SAP LVM to support the storage operations for LVM. Initial Phase of development was to integrate Celerra Storage System. Implemented the Celerra Access Library that handles all the communication between the LVM plug-in and Celerra storage system. The functionalities implemented as part of LVM Plugin are discover of file systems, create read & write checkpoints, delete & refresh operations on checkpoint and export the NFS.
+    <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;ESI SDK API, ESI REST SDK provides the solution for performing the provisioning, backup and deletion of storage pools and volumes. SDK provides a layer over top of different storage systems (VMAX3, VNX & XtremIO).
+
+- company: Kaiser Permanente
+  job_title: Senior Java Developer
+  dates: Feb ‘14 - Oct ‘14
+  quote: >
+   KP DMS (Diabetics Management System)
+  description: | # this will include new lines to allow paragraphs
+    &nbsp;&nbsp;&nbsp;&nbsp; Implemented Diabetes management software for KP-Colorado region. The DMS provides a solution to send the diabetics records to providers immediately and providers can reply back, monitor or suggest the precautions and remedies to the patient. The solution was also integrated with Fitbit, Jawbone and Nike Fuel band to track the activities of the patient or consumer. Patients were also provided facility to enter the food intake & exercise and also manual entry of calories consumed in a day. This is a sub project of healthy Kaiser Permanente. 
+    https://healthy.kaiserpermanente.org
+
+- company: ALLDATA (AutoZone)
+  job_title: Architect
+  dates: May ‘13 - Jan ‘14
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    &nbsp;&nbsp;&nbsp;&nbsp; This is a green filed project where requirements are gather based out of real customers Car Repair Shops and started Cue® Suite which is suite of multiple products CarCue, JobCue, ShopCue, MarkCue, and TechCue. Cue® Suite is designed to serve the needs of service manager / shop owner, service writer, parts manager, automotive service technician and customer of the aftermarket automotive repair industry. Development of various product web, mobile, tablet base
+
+
+- company: Model N
+  job_title: Solutions Analyst
+  dates: Jan ‘11 - March ‘12
+  quote: >
+   Implementation of RMS
+  description: | # this will include new lines to allow paragraphs
+    &nbsp;&nbsp;&nbsp;&nbsp; Revenue Management Software is a product where pharmaceutical companies use for stream line their contracts, customers, pricing, rebates. Effectively managing pricing and contracting are critical business processes for biopharma manufacturers. However, there were significant operational challenges - business strategies evolve rapidly, contract volume is increasing and terms and conditions are complex, and maverick or inaccurate pricing can lead to lower margins and regulatory compliance exposure. It manages complicated biopharma supply chain; channel and trade contracts are a powerful tool for maintaining wholesaler and distributor relationships.
+
+
+- company: Hyper Tech Solutions
+  job_title: Application Support Manager
+  dates: Feb ‘08 - Jan ‘11
+  quote: >
+   Plex Desktop
+  description: | # this will include new lines to allow paragraphs
+    &nbsp;&nbsp;&nbsp;&nbsp; Plex Desktop offers advanced reservations applications that support the flexibility required to compete in today’s global leisure travel industry. Plex’s Air Fare Contract Processing Engine enables to manage their negotiated fares and fully integrate them into the booking process. Plex allows you to create, price and distribute various packages, from escorted and niche tours to fully-flexible ‘build your own’ holidays. 
+
+
+- company: Computer Associates
+  job_title: Java Developer
+  dates: July ‘05 - Dec ‘07 
+  quote: >
+   USM (Unicenter Service Management)
+  description: | # this will include new lines to allow paragraphs
+    &nbsp;&nbsp;&nbsp;&nbsp; The Unicenter® Service Management solution helps organizations to manage business of IT. IT offerings can be appropriately defined as services to be automatically delivered, measured, supported and priced based on individual or group usage, while streamlining costs. Based on integrated Unicenter® technologies with an open architecture, Unicenter Service Management offers a complete solution for managing IT services and assets.
+
+
+- company: Hyper Soft Technologies
+  job_title: Centura Developer
+  dates: Feb ‘04 - May ‘05
+  quote: >
+   Share Broker Accounting Software. - HyperStock
+  description: | # this will include new lines to allow paragraphs
+    &nbsp;&nbsp;&nbsp;&nbsp; 

@@ -1,0 +1,73 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+
+# Personal info
+name: Pradeep Jaladi
+title: Enterprise Architect
+email: jaladi.pradeep@gmail.com
+phone: (631) 213-1935
+website:  pradeepjaladi.github.io
+
+
+# Social links
+#twitter_username: jekyllrb
+github_username:  pradeepjaladi
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: pradeep-jaladi
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+bitbucket_username: pradeepjaladi
+stackoverflow_username: pradeepjaladi
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: assets/GetPersonaPhoto.jpg
+about_content: | # this will include new lines to allow paragraphs
+  15 years of experience in information technology industry. Last 8+ years working as architect designing systems for domains like Storage, Travel, Enterprise & FedRAMP. Architecting the systems from end to end scenarios like
+  
+    - Business Gathering
+    - Design
+    - Integration(s)
+    - Development
+    - Testing / Automation
+    - CICD Pipeline
+    - Support
+    - Transformation from data center to cloud
+    - Agile
+
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+
+theme_settings:
+  # Meta
+  title: Type on Strap # blog's title
+  avatar: assets/img/triangle.svg
+  favicon: assets/favicon.ico
+  gravatar: # Email MD5 hash
+  special_page:
+    search: 
+      icon: "search"
+      enabled: true
+    tags:
+      icon: "tags"
+      enabled: true

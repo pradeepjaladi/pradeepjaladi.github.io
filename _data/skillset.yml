@@ -1,0 +1,45 @@
+# Experience template
+- Type: Development
+  skills: | # this will include new lines to allow paragraphs
+    - Java, J2EE, Spring, Spring Boot, Hibernate, JPA
+    - NodeJS, Angular, HTML5
+    - Adobe Experience Manager, CQ 5.5, Drupal, Word Press
+    - PHP
+    - C#, VBA.Net
+    - Web Services, REST, HATEOS, WSDL, XML
+
+- Type: Databases
+  skills: | # this will include new lines to allow paragraphs
+    - Oracle, Postgres, SQL Server
+    - Redis, Cassandra
+    - GraphQL
+
+# Experience template
+- Type: Content Managment
+  skills: | # this will include new lines to allow paragraphs
+    - Adobe Experience Manager, CQ 5.5
+    - Drupal
+
+# Experience template
+- Type: Log Management
+  skills: | # this will include new lines to allow paragraphs
+    - Splunk
+    - Elastic Search
+    - Log Stash, File Beat, Kibana
+
+
+- Type: Cloud
+  skills: | # this will include new lines to allow paragraphs
+    - AWS 
+    - Azure
+    - AWS & Azure Gov
+    - Digital Ocean
+
+- Type: CICD & Tools
+  skills: | # this will include new lines to allow paragraphs
+    - Jenkins, Hudson
+    - GIT, Jira, Rally, Artifactory, SonarQube, maven, wiki, confluence
+    - Docker, Kubernetes, Vagrant  
+    - Containers, Tomcat, JBoss, Web Sphere, IIS
+    - Eclipse, NetBeans, VS Code, Visual Studio
+    - SoapUI, JMeter, PostMan, Swagger
