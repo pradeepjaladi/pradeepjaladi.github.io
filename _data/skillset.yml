@@ -6,7 +6,7 @@
     - Adobe Experience Manager, CQ 5.5, Drupal, Word Press
     - PHP
     - C#, VBA.Net
-    - Web Services, REST, HATEOS, WSDL, XML
+    - Web Services, REST, HATEOS, WSDL, JSON, XML, SOAP
 
 - Type: Databases
   skills: | # this will include new lines to allow paragraphs
@@ -41,5 +41,5 @@
     - GIT, Jira, Rally, Artifactory, SonarQube, maven, wiki, confluence
     - Docker, Kubernetes, Vagrant  
     - Containers, Tomcat, JBoss, Web Sphere, IIS
-    - Eclipse, NetBeans, VS Code, Visual Studio
+    - Eclipse, NetBeans, Oracle JDeveloper, VS Code, Visual Studio
     - SoapUI, JMeter, PostMan, Swagger
