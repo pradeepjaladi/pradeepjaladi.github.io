@@ -1,7 +1,15 @@
 # Experience template
+- company: Northwell Health
+  job_title: 
+  dates: Dec'18 - Present
+  quote: >
+   Clinical Snapshot & Context Sharing
+  description: | # this will include new lines to allow paragraphs
+    &nbsp;&nbsp;&nbsp;&nbsp;Snapshot of patient
+
 - company: CA Technologies
   job_title: Principal Software Engineer
-  dates: May ‘17 – Present
+  dates: May ‘17 – Dec'18
   quote: >
    Public Sector Compliance & FedRAMP
   description: | # this will include new lines to allow paragraphs
