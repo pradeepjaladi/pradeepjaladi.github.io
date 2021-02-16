@@ -7,7 +7,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Pradeep Jaladi
 title: Enterprise Architect
 email: jaladi.pradeep@gmail.com
-phone: (631) 213-1935
+phone: (425)9999895
 website:  pradeepjaladi.github.io
 
 
@@ -32,16 +32,13 @@ resume_pdf: Pradeep Jaladi.pdf
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/GetPersonaPhoto.jpg
 about_content: | # this will include new lines to allow paragraphs
-  15 years of experience in information technology industry. Last 8+ years working as architect designing systems for domains like Storage, Travel, Enterprise & FedRAMP. Architecting the systems from end to end scenarios like
+  Overall 16 years of extensive experience in full project lifecycle, agile software development, application design and architecture, documentation and project planning, database design, systems analysis and database optimization, conversion & integration, technical support; testing and implementation of various multi-tiers & multi-threaded applications for Storage, Travel, Enterprise & Revenue Management Domains
   
-    - Business Gathering
-    - Design
-    - Integration(s)
-    - Development
-    - Testing / Automation
-    - CICD Pipeline
-    - Support
-    - Transformation from data center to cloud
+    - Cloud - Azure & AWS (Commerical, Gov)
+    - Migration of applications from on Premises to Cloud
+    - CICD Pipeline - Jenkins, TeamCity, Azure DevOps
+    - Architect - Design, Develop, Integrate, Test, Deploy and Support
+    - Testing/Automation
     - Agile
 
 
