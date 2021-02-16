@@ -5,7 +5,7 @@
   quote: >
    Clinical Snapshot & Context Sharing
   description: | # this will include new lines to allow paragraphs
-    &nbsp;&nbsp;&nbsp;&nbsp;Snapshot of patient
+    &nbsp;&nbsp;&nbsp;&nbsp;Clinical Snapshot is an application which is integrated as part of TouchWorks which provides a 360 view of a patient currently in context of the TouchWorks. It displays all the health information in one place. Context Sharing is a product which updates all the integration products when a patient is changed in TouchWorks which is a parent source. UBL is a workflow product with guaranteed delivery. UBL is a middleware between different integrations (Syngo, POC, PaceArt…) and Unity.
 
 - company: CA Technologies
   job_title: Principal Software Engineer
