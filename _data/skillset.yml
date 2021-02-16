@@ -23,16 +23,14 @@
 # Experience template
 - Type: Log Management
   skills: | # this will include new lines to allow paragraphs
-    - Splunk, Azure Application Insights
-					
+    - Splunk, Azure Application Insights					
     - Elastic Search, Log Stash, File Beat, Kibana
 
 
 - Type: Cloud
   skills: | # this will include new lines to allow paragraphs
     - Azure
-    - AWS 
-		   
+    - AWS		   
     - AWS & Azure Gov
     - Digital Ocean
 
