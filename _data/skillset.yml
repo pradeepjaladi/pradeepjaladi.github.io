@@ -4,9 +4,9 @@
     - Java, J2EE, Spring, Spring Boot, Hibernate, JPA
     - NodeJS, Angular, HTML5
     - Adobe Experience Manager, CQ 5.5, Drupal, Word Press
-    - PHP
-    - C#, VBA.Net
-    - Web Services, REST, HATEOS, WSDL, JSON, XML, SOAP
+    - PHP, Python
+    - C#, Dot NEt Core
+    - REST, HATEOS, JSON, SOAP, WSDL, XML
 
 - Type: Databases
   skills: | # this will include new lines to allow paragraphs
@@ -23,23 +23,24 @@
 # Experience template
 - Type: Log Management
   skills: | # this will include new lines to allow paragraphs
-    - Splunk
-    - Elastic Search
-    - Log Stash, File Beat, Kibana
+    - Splunk, Azure Application Insights
+					
+    - Elastic Search, Log Stash, File Beat, Kibana
 
 
 - Type: Cloud
   skills: | # this will include new lines to allow paragraphs
-    - AWS 
     - Azure
+    - AWS 
+		   
     - AWS & Azure Gov
     - Digital Ocean
 
 - Type: CICD & Tools
   skills: | # this will include new lines to allow paragraphs
-    - Jenkins, Hudson
-    - GIT, Jira, Rally, Artifactory, SonarQube, maven, wiki, confluence
+    - Azure DevOps, Jenkins, Hudson, TeamCity
+    - GIT, Jira, Rally, Artifactory, SonarQube, maven, wiki, confluence, OpKey
     - Docker, Kubernetes, Vagrant  
     - Containers, Tomcat, JBoss, Web Sphere, IIS
-    - Eclipse, NetBeans, Oracle JDeveloper, VS Code, Visual Studio
+    - Eclipse, NetBeans, VS Code, Visual Studio
     - SoapUI, JMeter, PostMan, Swagger
