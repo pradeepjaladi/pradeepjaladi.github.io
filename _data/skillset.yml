@@ -2,7 +2,7 @@
 - Type: Development
   skills: | # this will include new lines to allow paragraphs
     - Java, J2EE, Spring, Spring Boot, Hibernate, JPA
-    - NodeJS, Angular, HTML5
+    - NodeJS, Angular, HTML5, ReactJS
     - Adobe Experience Manager, CQ 5.5, Drupal, Word Press
     - PHP, Python
     - C#, .Net Core
